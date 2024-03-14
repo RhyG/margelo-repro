@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-mmkv": "^2.12.2",
+    "react-native-quick-base64": "^2.0.8",
+    "react-native-quick-crypto": "^0.6.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
